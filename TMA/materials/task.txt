@@ -1,0 +1,8 @@
+1. woman_discount: Chau
+2. product_main_category: Thu
+3. product_by_sub-cate: Thai Huy
+4. product_list: Hung
+5. product_detail: Tuan Huy
+6. shopping_cart: Tram
+7. check_out_page: Quynh
+8. receipt: Nhi
